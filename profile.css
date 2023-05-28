@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.navbar_div{
+    background-color: rgb(236, 211, 70);
+    padding: 8px;
+    display: flex;
+}
+
+.navbar_div h2{
+    text-align: center;
+    margin: 11px
+}
+
+.navbar{
+    display: flex;
+   justify-content: center;
+}
+
+.navbar li {
+    padding-left: 10px;
+    padding-right: 10px;
+    list-style: none;
+}
